@@ -4,4 +4,6 @@
 
 ## ✅ فایل: sub.txt
 از لینک زیر می‌توانید در برنامه‌های V2Ray استفاده کنید:
+https://raw.githubusercontent.com/sbo2526/v2ray-sobhan/main/sub.txt
+
 
